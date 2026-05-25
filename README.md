@@ -1,6 +1,7 @@
 🚀 Sistema Inteligente de Colônia Espacial
 
-Sistema desenvolvido em Python para monitoramento energético de uma colônia espacial em Marte, utilizando automação, análise de consumo, relatórios inteligentes e previsão de energia eólica através de regressão linear.
+Sistema desenvolvido em Python para monitoramento energético de uma colônia espacial em Marte, utilizando automação, análise de consumo, relatórios inteligentes e previsão de energia eólica através de regressão linear.  
+Os arquivos do projeto estao na pasta (Arquivos) onde possui todas as estruturas do codigo.
 
 📌 Objetivo do Projeto
 
