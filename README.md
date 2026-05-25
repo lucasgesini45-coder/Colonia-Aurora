@@ -78,6 +78,30 @@ O sistema possui diferentes níveis de monitoramento:
 🔋 Energia excedente  
 ✅ Sistema estável  
 
+===== RELATÓRIO DA COLÔNIA =====
+
+Energia: 65%  
+Consumo: 40%  
+Combustível: 82%  
+
+STATUS:  
+✅ Sistema Estável  
+🚀 Eficiência energética: BOA  
+
+📚 Conceitos Aplicados  
+
+Durante o desenvolvimento foram utilizados:  
+
+Listas  
+Dicionários  
+Funções  
+Estruturas condicionais  
+Laços de repetição  
+Programação modular  
+Manipulação de tabelas  
+Visualização de dados  
+Inteligência energética  
+
 
 
 
