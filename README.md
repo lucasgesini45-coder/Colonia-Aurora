@@ -8,179 +8,91 @@ O objetivo deste projeto é simular um sistema inteligente de gerenciamento ener
 
 O projeto também teve como finalidade praticar:
 
-Programação modular em Python
+* Programação modular em Python  
+* Estruturas Condicionais  
+* Manipulação de dados  
+* Regressão Linear  
+* Criação de Gráficos   
 
-Estruturas condicionais
+* Organização de sistemas automatizados 
 
-Manipulação de dados
+* Simulação de inteligência energética
 
-Regressão Linear
+🧠 Funcionalidades  
+✅ Monitoramento da colônia espacial  
+✅ Sistema automático de alertas energéticos  
+✅ Relatórios inteligentes da nave  
+✅ Simulação de consumo e combustível  
+✅ Desligamento automático de sistemas críticos  
+✅ Previsão de energia eólica  
+✅ Gráficos interativos utilizando regressão linear  
+✅ Interface organizada no terminal  
 
-Criação de gráficos
-
-Organização de sistemas automatizados
-
-Simulação de inteligência energética
-
-🧠 Funcionalidades
-
-
-✅ Monitoramento da colônia espacial
-
-✅ Sistema automático de alertas energéticos
-
-✅ Relatórios inteligentes da nave
-
-✅ Simulação de consumo e combustível
-
-✅ Desligamento automático de sistemas críticos
-
-✅ Previsão de energia eólica
-
-✅ Gráficos interativos utilizando regressão linear
-
-✅ Interface organizada no terminal
-
-
-🗂 Estrutura do Projeto
-
-📁 projeto-colonia-espacial
-
+📁 projeto-colonia-espacial  
 │
+├── main.py  
+├── sistema_Colonia.py  
+├── regras.py  
+├── regressao_linear.py  
+├── relatorio_Sistema.py  
+├── marte.png  
+└── README.md  
 
-├── main.py
-
-├── sistema_Colonia.py
-
-├── regras.py
-
-├── regressao_linear.py
-
-├── relatorio_Sistema.py
-
-├── marte.png
-
-└── README.md
-
-⚙ Funcionamento do Sistema
-
+⚙ Funcionamento do Sistema  
 main.py
-
    │
-   
-   ├── sistema_Colonia.py → Geração dos dados da nave
-   
+   ├── sistema_Colonia.py → Geração dos dados da nave  
    │
-   
-   ├── regras.py → Regras automáticas do sistema
-   
+   ├── regras.py → Regras automáticas do sistema  
    │
-   
-   ├── relatorio_Sistema.py → Relatórios energéticos
-   
+   ├── relatorio_Sistema.py → Relatórios energéticos  
    │
+   └── regressao_linear.py → Previsão energética  
    
-   └── regressao_linear.py → Previsão energética
-   
-📊 Tecnologias Utilizadas
-
-Python
-
-Pandas
-
-Matplotlib
-
-Tabulate
-
-Random
-
-📈 Regressão Linear
-
-
-
-O sistema utiliza regressão linear para prever a geração de energia eólica com base na velocidade do vento.
-
-
-
-Fórmula utilizada:
-
-
-
-y=ax+b
-
-
+📊 Tecnologias Utilizadas  
+* Python  
+* Pandas  
+* Matplotlib  
+* Tabulate  
+* Random
+* 
+📈 Regressão Linear  
+O sistema utiliza regressão linear para prever a geração de energia eólica com base na velocidade do vento.  
+Fórmula utilizada:  
+*y=ax+b*  
 Onde:
 
-
-y = energia prevista
-
-x = velocidade do vento
-
-a = inclinação da reta
-
+y = energia prevista  
+x = velocidade do vento  
+a = inclinação da reta  
 b = interceptação da reta
-
-📷 Exemplo do Sistema
-
-Fluxograma do Projeto
-
 
 
 🚨 Sistema de Alertas
 
+O sistema possui diferentes níveis de monitoramento:  
 
-O sistema possui diferentes níveis de monitoramento:
-
-
-🚨 Estado crítico
-
-⚠ Alerta moderado
-
-⛽ Combustível baixo
-
-🔋 Energia excedente
-
-✅ Sistema estável
-
-🖥 Exemplo de Relatório
-
-===== RELATÓRIO DA COLÔNIA =====
+🚨 Estado crítico  
+⚠ Alerta moderado  
+⛽ Combustível baixo  
+🔋 Energia excedente  
+✅ Sistema estável  
 
 
-Energia: 65%
-
-Consumo: 40%
-
-Combustível: 82%
 
 
-STATUS:
-
-✅ Sistema Estável
-
-🚀 Eficiência energética: BOA
-
-📚 Conceitos Aplicados
 
 
-Durante o desenvolvimento foram utilizados:
 
 
-Listas
 
-Dicionários
 
-Funções
 
-Estruturas condicionais
 
-Laços de repetição
 
-Programação modular
 
-Manipulação de tabelas
 
-Visualização de dados
 
-Inteligência energética
 
+
+   
